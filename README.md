@@ -46,7 +46,7 @@ The dataset, **Depression Student Dataset**, contains information on:
 
 ### 4. Exploratory Data Analysis (EDA)
 - Aggregated and grouped data to explore trends across:
-  - Gender, Age Groups
+  - Gender, Age Groups 
   - Academic Pressure, Study Satisfaction
   - Sleep Duration, Dietary Habits
   - Financial Stress, Family History of Mental Illness
